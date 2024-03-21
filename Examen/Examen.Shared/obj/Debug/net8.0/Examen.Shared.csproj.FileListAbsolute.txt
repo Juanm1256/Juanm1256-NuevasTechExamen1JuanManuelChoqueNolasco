@@ -1,0 +1,12 @@
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\bin\Debug\net8.0\Examen.Shared.deps.json
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\bin\Debug\net8.0\Examen.Shared.dll
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\bin\Debug\net8.0\Examen.Shared.pdb
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.AssemblyInfoInputs.cache
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.AssemblyInfo.cs
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.csproj.CoreCompileInputs.cache
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.sourcelink.json
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.dll
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\refint\Examen.Shared.dll
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\Examen.Shared.pdb
+D:\evaluacion1NT\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\Examen\Examen.Shared\obj\Debug\net8.0\ref\Examen.Shared.dll

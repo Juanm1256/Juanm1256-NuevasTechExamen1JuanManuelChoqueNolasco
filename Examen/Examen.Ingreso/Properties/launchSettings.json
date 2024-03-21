@@ -3,7 +3,9 @@
     "Examen.Ingreso": {
       "commandName": "Project",
       "commandLineArgs": "--port 7161",
-      "launchBrowser": false
+      "environmentVariables": {
+        "cadenaconexion": "DefaultEndpointsProtocol=https;AccountName=conexioncolingbd;AccountKey=D1xbVrmSGP1UqpUMVFvtg3hVCtitrCE1QrE2oDZY2tiMAESZWwj1PaX2FKKSrVeujgm5nYiXwrrC+AStyDaCtQ==;EndpointSuffix=core.windows.net"
+      }
     }
   }
 }
