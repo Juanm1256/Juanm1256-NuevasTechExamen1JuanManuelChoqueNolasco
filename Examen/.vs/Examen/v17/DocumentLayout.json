@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\examen.ingreso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|solutionrelative:examen.ingreso\\examen.ingreso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\endpoint\\productofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|solutionrelative:examen.ingreso\\endpoint\\productofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\endpoint\\proveedorfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|solutionrelative:examen.ingreso\\endpoint\\proveedorfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\examen.ingreso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|solutionrelative:examen.ingreso\\examen.ingreso.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\contratos\\repositorios\\iproveedorlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\contratos\\repositorios\\iproductorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|solutionrelative:examen.ingreso\\contratos\\repositorios\\iproductorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\endpoint\\productofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|solutionrelative:examen.ingreso\\endpoint\\productofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C119D9E5-BF31-4312-861C-CAC0D1BC4085}|Examen.Ingreso\\Examen.Ingreso.csproj|d:\\evaluacion1nt\\juanm1256-nuevastechexamen1juanmanuelchoquenolasco\\examen\\examen.ingreso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Examen.Ingreso",
               "DocumentMoniker": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\Examen.Ingreso\\Examen.Ingreso.csproj",
               "RelativeDocumentMoniker": "Examen.Ingreso\\Examen.Ingreso.csproj",
@@ -86,15 +86,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductoFunction.cs",
               "DocumentMoniker": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\Examen.Ingreso\\EndPoint\\ProductoFunction.cs",
               "RelativeDocumentMoniker": "Examen.Ingreso\\EndPoint\\ProductoFunction.cs",
               "ToolTip": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\Examen.Ingreso\\EndPoint\\ProductoFunction.cs",
               "RelativeToolTip": "Examen.Ingreso\\EndPoint\\ProductoFunction.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAEAAAAAAAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAACyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T00:18:29.456Z"
+              "WhenOpened": "2024-03-21T00:18:29.456Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +105,7 @@
               "RelativeDocumentMoniker": "Examen.Ingreso\\EndPoint\\ProveedorFunction.cs",
               "ToolTip": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\Examen.Ingreso\\EndPoint\\ProveedorFunction.cs",
               "RelativeToolTip": "Examen.Ingreso\\EndPoint\\ProveedorFunction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAACGAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHkAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T00:14:45.864Z",
               "EditorCaption": ""
@@ -123,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IProductoRepo.cs",
               "DocumentMoniker": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\Examen.Ingreso\\Contratos\\Repositorios\\IProductoRepo.cs",
               "RelativeDocumentMoniker": "Examen.Ingreso\\Contratos\\Repositorios\\IProductoRepo.cs",
@@ -131,8 +132,7 @@
               "RelativeToolTip": "Examen.Ingreso\\Contratos\\Repositorios\\IProductoRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T00:01:27.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T00:01:27.648Z"
             },
             {
               "$type": "Document",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProveedorLogic.cs",
               "DocumentMoniker": "D:\\evaluacion1NT\\Juanm1256-NuevasTechExamen1JuanManuelChoqueNolasco\\Examen\\Examen.Ingreso\\Contratos\\Repositorios\\IProveedorLogic.cs",
               "RelativeDocumentMoniker": "Examen.Ingreso\\Contratos\\Repositorios\\IProveedorLogic.cs",
@@ -168,8 +168,7 @@
               "RelativeToolTip": "Examen.Ingreso\\Contratos\\Repositorios\\IProveedorLogic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T00:00:29.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T00:00:29.559Z"
             },
             {
               "$type": "Document",
