@@ -24,7 +24,7 @@ namespace Examen.Ingreso.EndPoint
         [Function("InsertarProveedor")]
         [OpenApiOperation("Insertarspec", "InsertarProveedor", Description = " Sirve para listar todas las proveedores")]
         [OpenApiRequestBody("application/json", typeof(Proveedor), Description = "Institucion modelo")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Proveedor), Description = "Insertara el Proveedor.")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Proveedor), Description = "El Proveedor creado con su ID asignado.")]
         public async Task<HttpResponseData> Insertar([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequestData req)
         {
             HttpResponseData respuesta;
@@ -73,8 +73,9 @@ namespace Examen.Ingreso.EndPoint
             }
         }
 
-        /*tarea para ahora*/
         [Function("EliminarProveedor")]
+        [OpenApiOperation("Eliminarprec", "EliminarProveedor", Description = "Este endpoint nos sirve para eliminar")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Proveedor>), Description = "Confirmación de eliminación exitosa")]
         public async Task<HttpResponseData> EliminarProveedor([HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req, string partitionkey, string rowkey)
         {
             try
@@ -94,6 +95,8 @@ namespace Examen.Ingreso.EndPoint
         }
 
         [Function("ObtenerProveedor")]
+        [OpenApiOperation("Obtenerprec", "ObtenerProveedor", Description = "Este endpoint nos sirve para obtener")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Proveedor), Description = "Datos del Proveedor correspondiente al ID proporcionado.")]
         public async Task<HttpResponseData> ObtenerProveedor([HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req, string id)
         {
             try
@@ -113,6 +116,9 @@ namespace Examen.Ingreso.EndPoint
         }
 
         [Function("ModificarProveedor")]
+        [OpenApiOperation("Modificarspec", "ModificarProveedor", Description = " Sirve para listar todas las actualizaciones")]
+        [OpenApiRequestBody("application/json", typeof(Proveedor), Description = "Institucion modelo")]
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Proveedor), Description = "Confirmación de actualización exitosa.")]
         public async Task<HttpResponseData> ModificarProveedor([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequestData req)
         {
             try
