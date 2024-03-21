@@ -75,8 +75,8 @@ namespace Examen.Ingreso.EndPoint
 
         [Function("EliminarProveedor")]
         [OpenApiOperation("Eliminarprec", "EliminarProveedor", Description = "Este endpoint nos sirve para eliminar")]
-        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(List<Proveedor>), Description = "Confirmación de eliminación exitosa")]
-        public async Task<HttpResponseData> EliminarProveedor([HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req, string partitionkey, string rowkey)
+        [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Proveedor), Description = "Confirmación de eliminación exitosa")]
+        public async Task<HttpResponseData> EliminarProveedor([HttpTrigger(AuthorizationLevel.Function, "delete")] HttpRequestData req, string partitionkey, string rowkey)
         {
             try
             {
@@ -119,7 +119,7 @@ namespace Examen.Ingreso.EndPoint
         [OpenApiOperation("Modificarspec", "ModificarProveedor", Description = " Sirve para listar todas las actualizaciones")]
         [OpenApiRequestBody("application/json", typeof(Proveedor), Description = "Institucion modelo")]
         [OpenApiResponseWithBody(statusCode: HttpStatusCode.OK, contentType: "application/json", bodyType: typeof(Proveedor), Description = "Confirmación de actualización exitosa.")]
-        public async Task<HttpResponseData> ModificarProveedor([HttpTrigger(AuthorizationLevel.Function, "post")] HttpRequestData req)
+        public async Task<HttpResponseData> ModificarProveedor([HttpTrigger(AuthorizationLevel.Function, "put")] HttpRequestData req)
         {
             try
             {
